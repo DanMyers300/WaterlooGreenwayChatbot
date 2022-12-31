@@ -86,8 +86,8 @@
 ## About The Project
 [![Project Screenshot][product-screenshot]]()
 <div align="center">
-  <a href="https://github.com/Colloke/WaterlooGreenwayChatbot">
-	<img src="" alt="Screenshot">
+  <a href="https://raw.githubusercontent.com/Colloke/WaterlooGreenwayChatbot/main/Photo-credit-Waterloo-Greenway-Conservancy-1.jpg?token=GHSAT0AAAAAAB4TCGOT7HMW52SGCH7S3B3MY5QTJCA">
+	<img src="https://raw.githubusercontent.com/Colloke/WaterlooGreenwayChatbot/main/Photo-credit-Waterloo-Greenway-Conservancy-1.jpg?token=GHSAT0AAAAAAB4TCGOT7HMW52SGCH7S3B3MY5QTJCA" alt="Screenshot">
   </a>
 </div>
 <!--Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Colloke`, `danmyers.net`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`-->
