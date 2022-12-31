@@ -39,7 +39,7 @@
 <h3 align="center">Waterloo-Greeway Chatbot</h3>
 
   <p align="center">
-	A informational SMS chatbot using AWS LexV2 and pinpoint
+	A informational SMS chatbot using AWS LexV2 and pinpoint for the Waterloo-Greenway Park in Austin, TX
 	<br />
 	<a href="https://github.com/Colloke/WaterlooGreenwayChatbot"><strong>Explore the docs »</strong></a>
 	<br />
