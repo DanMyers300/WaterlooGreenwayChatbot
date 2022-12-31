@@ -41,6 +41,10 @@
   <p align="center">
 	A informational SMS chatbot using AWS LexV2 and pinpoint for the Waterloo-Greenway Park in Austin, TX
 	<br />
+	<strong>Text the bot:</strong>
+	<br />
+	+1 (904) 901-6587
+	<br />
 	<a href="https://waterloogreenway.org"><strong>Explore the park »</strong></a>
 	<br />
 	<br />
