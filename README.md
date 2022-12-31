@@ -44,8 +44,8 @@
 	<a href="https://github.com/Colloke/WaterlooGreenwayChatbot"><strong>Explore the docs »</strong></a>
 	<br />
 	<br />
-	<!--<a href="https://github.com/Colloke/WaterlooGreenwayChatbot">View Dev Build</a>-->
-	·
+	<!--<a href="https://github.com/Colloke/WaterlooGreenwayChatbot">View Dev Build</a>
+	·-->
 	<a href="https://github.com/Colloke/danmyers.net/issues">Report Bug</a>
 	·
 	<a href="https://github.com/Colloke/danmyers.net/issues">Request Feature</a>
@@ -84,10 +84,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Project Screenshot][product-screenshot]](https://raw.githubusercontent.com/Colloke/danmyers.net/main/src/Assets/Website_Screenshot.png)
+[![Project Screenshot][product-screenshot]]()
 <div align="center">
-  <a href="https://github.com/Colloke/danmyers.net/main/src/Assets">
-	<img src="https://raw.githubusercontent.com/Colloke/danmyers.net/main/src/Assets/Website_Screenshot.png" alt="Screenshot">
+  <a href="https://github.com/Colloke/WaterlooGreenwayChatbot">
+	<img src="" alt="Screenshot">
   </a>
 </div>
 <!--Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `Colloke`, `danmyers.net`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`-->
@@ -98,9 +98,9 @@
 
 ### Built With
 <!--
-* [![Next][Next.js]][Next-url]-->
+* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-<!--* [![Vue][Vue.js]][Vue-url]
+* [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
@@ -203,8 +203,7 @@ No License
 - Daniel Myers
 - contact@danmyers.net
 - +1 (469) 847-9401
-
-Website Link: [danmyers.net](https://www.Danmyers.net)
+- Website: [danmyers.net](https://www.Danmyers.net)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
