@@ -32,8 +32,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Colloke/danmyers.net/main/src/Assets">
-	<img src="https://raw.githubusercontent.com/Colloke/danmyers.net/main/src/Assets/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Colloke/WaterlooGreenwayChatbot/main/IMG_1422.jpg">
+	<img src="https://raw.githubusercontent.com/Colloke/WaterlooGreenwayChatbot/main/IMG_1422.jpg?token=GHSAT0AAAAAAB4TCGOT3BD7D6RJ3GCEJ35QY5QX4DA" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Waterloo-Greeway Chatbot</h3>
