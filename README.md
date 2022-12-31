@@ -36,15 +36,15 @@
 	<img src="https://raw.githubusercontent.com/Colloke/danmyers.net/main/src/Assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">DanMyers.net</h3>
+<h3 align="center">Waterloo-Greeway Chatbot</h3>
 
   <p align="center">
-	A personal portfolio website build using JSReact and AWS Amplify
+	A informational SMS chatbot using AWS LexV2 and pinpoint
 	<br />
-	<a href="https://github.com/Colloke/danmyers.net"><strong>Explore the docs »</strong></a>
+	<a href="https://github.com/Colloke/WaterlooGreenwayChatbot"><strong>Explore the docs »</strong></a>
 	<br />
 	<br />
-	<a href="https://dev.d2mpkt15opqjq1.amplifyapp.com">View Dev Build</a>
+	<!--<a href="https://github.com/Colloke/WaterlooGreenwayChatbot">View Dev Build</a>-->
 	·
 	<a href="https://github.com/Colloke/danmyers.net/issues">Report Bug</a>
 	·
