@@ -101,6 +101,8 @@
 
 
 ### Built With
+JavaScript
+Aws
 <!--
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
